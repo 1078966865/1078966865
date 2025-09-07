@@ -32,3 +32,8 @@ Modern Information Technology, 2022
 Xiangyu Hu, Yichen Dong
 
 Software Development And Application, 2021
+
+# Concact
+- Email: 1078966865@qq.com
+- RedNote: zombotany/3848071456
+- Zhihu: zombo_tany
