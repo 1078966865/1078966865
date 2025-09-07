@@ -29,7 +29,7 @@
 
 - Analysis of a Modern Web-Based Swine Farming Monitoring System
 
-    Xiangyu Hu, Yichen Dong
+    Xiangyu Hu, **Yichen Dong**
 
     Software Development And Application, 2021
 
